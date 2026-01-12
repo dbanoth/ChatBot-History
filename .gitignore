@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+ 
+# Environment variables
+.getenv
+ 
+# Streamlit secrets
+.streamlit/
+.streamlit/secrets.toml
